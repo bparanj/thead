@@ -4,4 +4,6 @@ Rails.application.routes.draw do
       get :autocomplete
     end
   end
+  
+  root 'articles#index'
 end
