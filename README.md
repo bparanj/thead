@@ -1,3 +1,6 @@
+# Watch the Screencast
+[![Autocomplete in Rails 5](https://d2d8g20jj5tev4.cloudfront.net/rubyplus-screencast.png)](https://rubyplus.com/episodes/51-Autocomplete-in-Rails-5)
+
 Autocomplete using Typeahead and Searchkick in Rails 5
 
 ## Setup SearchKick
